@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LCJQJq6ndQSegFHwQnXHuPu7SesTFJAL+9A9AdcFoDV4vY+IsLBp/Zccd5oLxt7bxYNOL4UCitworM0knqjYtg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ites_\\OneDrive\\Escritorio\\SUBIDA AL GITHUB CODIGOS\\numeros_divisores\\numeros_divisores\\numeros_divisores.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ites_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}
